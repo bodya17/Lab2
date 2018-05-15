@@ -11,6 +11,12 @@ namespace Lab2
         static void Main(string[] args)
         {
             var purse = new Purse();
+            
+            var money = new Money();            
+           
+            
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
         }
     }
 }
