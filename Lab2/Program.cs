@@ -12,7 +12,8 @@ namespace Lab2
         {
             var purse = new Purse();
             
-            Console.WriteLine("Hello World!");
+            var money = new Money();            
+           
             
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();

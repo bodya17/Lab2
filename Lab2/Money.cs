@@ -10,7 +10,7 @@ namespace Lab2
     {
         public Money()
         {
-            Console.WriteLine("Purse constructor");
+            Console.WriteLine("Money constructor");
             Console.ReadKey();
         }
     }
