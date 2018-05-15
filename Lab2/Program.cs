@@ -12,7 +12,10 @@ namespace Lab2
         {
             var purse1 = new Purse();
             
-           
+
+            var money = new Money();
+            int a = 10;
+
             var goldenCarc = new GoldenCard();
             
             Console.WriteLine("Press any key to exit.");
