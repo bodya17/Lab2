@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Lab2
 {
-    class Program
+    class BusinessCard
     {
-        static void Main(string[] args)
+        public BusinessCard()
         {
-            var purse = new Purse();
-            var businessCard = new BusinessCard();
+            Console.WriteLine("Business Card");
+            Console.ReadKey();
         }
     }
 }
