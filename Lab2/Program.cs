@@ -12,8 +12,8 @@ namespace Lab2
         {
             var purse = new Purse();
             
-            var money = new Money();            
-           
+            var money = new Money();
+            var goldenCarc = new GoldenCard();
             
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
