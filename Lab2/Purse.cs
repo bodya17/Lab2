@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace Lab2
 {
-    class Program
+    class Purse
     {
-        static void Main(string[] args)
+        public Purse()
         {
-            var purse = new Purse();
+            Console.WriteLine("Purse constructor");
+            Console.ReadKey();
         }
     }
 }
